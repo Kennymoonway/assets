@@ -1,0 +1,10 @@
+
+    "name": "Moonway",
+    "type": "BEP20",
+    "symbol": "Moonway",
+    "decimals": 9,
+    "website": "https://www.moonwaybsc.com/",
+    "description": "moonway is a community based deflationary, yield generating coin on the binance smart chain (BSC). A 5% tax is applied to all transactions which are distributed to fellow moonway holders. Another 5% tax is automatically added to a locked liquidity pool to generate an ever rising price floor. Ownership was renounced on launch day with the developer holding less than 3% of the total tokens at launch. 400,000,000,000,000 moonway(40%) were burned at launch, with 525,000,000,000,000 moonway (52.5%) committed to pancakeswap for liquidity."
+    "explorer": "https://bscscan.com/token/0x01cdec00557c39e43ac24898be9878925b8f49d3",
+    "status": "active",
+    "id" "0x01cdec00557c39e43ac24898be9878925b8f49d3"
